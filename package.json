@@ -1,0 +1,20 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriyhorbatenko/Burger.git"
+  },
+  "author": "Yuriy H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriyhorbatenko/Burger/issues"
+  },
+  "homepage": "https://github.com/yuriyhorbatenko/Burger#readme"
+}
