@@ -8,5 +8,9 @@
 
 ![](public/assets/img/screen.jpg)
 
+Link to Github Deployment:
+
+https://guarded-inlet-83422.herokuapp.com/
+
 **Languages & Technologies used:**
 MySQL, Node, Express, Handlebars, HTML, CSS, Javascript, Jquery 
